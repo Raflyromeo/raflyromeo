@@ -36,3 +36,5 @@
 [![](https://visitcount.itsvg.in/api?id=Raflyromeo&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Snake animation](https://github.com/Raflyromeo/raflyromeo/blob/output/github-contribution-grid-snake.svg)
+---
