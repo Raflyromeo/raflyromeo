@@ -1,7 +1,7 @@
-# Hi! I'm Ifal Fahri A ✨
+# Hi! I'm Muhammad Rafly Romeo Nasution ✨
 
-> "Frontend developer"  
-> "Backend survivor"
+> "UI/UX Designer"  
+> "Frontend developer"
 
 🎉 I just recently finished my portfolio, check it out [here](https://ifal.me)<br>🤖 Currently exploring No-Code Web Builder, Generative AI, and n8n Automation<br>
 
