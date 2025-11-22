@@ -1,7 +1,9 @@
 # Hi! I'm Muhammad Rafly Romeo Nasution ✨
 
 > "Junior Programmer"
+> 
 > "UI/UX Designer"
+> 
 > "Frontend developer"
 
 🎉 I just recently finished my portfolio, check it out [here](https://raflyromeo-portfolio.vercel.app/)
