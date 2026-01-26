@@ -6,7 +6,7 @@
 > 
 > "Frontend developer"
 
-🎉 I just recently finished my portfolio, check it out [here](https://vercel.com/)
+🎉 I just recently finished my portfolio, check it out [here](https://raflyromeo-portfolio.vercel.app/https://raflyromeo-portfolio.vercel.app/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/rfly.romeo_) 
@@ -14,7 +14,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@raflyromeoo_) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCnHfTUSvghNKgfjD-OskT4w) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raflyromeonasution07@gmail.com) 
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-%23000000.svg?style=flat-square&logo=web&logoColor=white)](https://vercel.com/)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-%23000000.svg?style=flat-square&logo=web&logoColor=white)](https://raflyromeo-portfolio.vercel.app/)
 
 ## 💻 Tech Stack
 | **Category**     | **Technologies** |
