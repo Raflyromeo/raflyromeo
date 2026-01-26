@@ -6,7 +6,7 @@
 > 
 > "Frontend developer"
 
-🎉 I just recently finished my portfolio, check it out [here](https://raflyromeo-portfolio.vercel.app/)
+🎉 I just recently finished my portfolio, check it out [here](https://vercel.com/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/rfly.romeo_) 
