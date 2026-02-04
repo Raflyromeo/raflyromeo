@@ -28,9 +28,9 @@
 | **Design**       | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) |
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Raflyromeo&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats-raflyromeo.vercel.app/api?username=Raflyromeo&theme=radical&hide_border=true&include_all_commits=true&count_private=false&cache_seconds=1800)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Raflyromeo&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raflyromeo&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-raflyromeo.vercel.app/api/top-langs/?username=Raflyromeo&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&cache_seconds=1800)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -41,4 +41,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![Snake animation](https://github.com/Raflyromeo/raflyromeo/blob/output/github-contribution-grid-snake.svg)
 ---
-test
