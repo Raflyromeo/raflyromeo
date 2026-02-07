@@ -54,29 +54,3 @@ Hi, I'm Muhammad Rafly Romeo Nasution, also known as Romeo, a sixth-semester und
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![Snake animation](https://github.com/Raflyromeo/raflyromeo/blob/output/github-contribution-grid-snake.svg)
 ---
-
-testttttt
-feat(profile): revamp README with new banner and intro layout
-feat(profile): revamp README with new banner and intro layout
-feat(profile): revamp README with new banner and intro layout
-feat(profile): revamp README with new banner and intro layout
-feat(profile): revamp README with new banner and intro layout
-feat(profile): revamp README with new banner and intro layout
-feat(profile): revamp README with new banner and intro layout
-feat(profile): revamp README with new banner and intro layout
-feat(profile): revamp README with new banner and intro layout
-feat(profile): revamp README with new banner and intro layout
-feat(profile): revamp README with new banner and intro layout
-feat(profile): revamp README with new banner and intro layout
-feat(profile): revamp README with new banner and intro layout
-feat(profile): revamp README with new banner and intro layout
-feat(profile): revamp README with new banner and intro layout
-feat(profile): revamp README with new banner and intro layout
-feat(profile): revamp README with new banner and intro layout
-feat(profile): revamp README with new banner and intro layout
-feat(profile): revamp README with new banner and intro layout
-feat(profile): revamp README with new banner and intro layout
-feat(profile): revamp README with new banner and intro layout
-feat(profile): revamp README with new banner and intro layout
-feat(profile): revamp README with new banner and intro layout
-
