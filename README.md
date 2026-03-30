@@ -42,7 +42,7 @@ Hi, I'm Muhammad Rafly Romeo Nasution, also known as Romeo, a sixth-semester und
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-raflyromeo.vercel.app/api?username=Raflyromeo&theme=radical&hide_border=true&include_all_commits=true&count_private=false&cache_seconds=1800)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Raflyromeo&theme=radical&hide_border=true)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raflyromeo&theme=radical&hide_border=true)](https://github.com/Raflyromeo)<br/>
 ![](https://github-readme-stats-raflyromeo.vercel.app/api/top-langs/?username=Raflyromeo&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&cache_seconds=1800)
 
 ### ✍️ Random Dev Quote
