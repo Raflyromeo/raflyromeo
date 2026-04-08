@@ -1,30 +1,17 @@
-![Header](./github-header-banner.png)
+# Hi! I'm Muhammad Rafly Romeo Nasution ✨
 
-<h1 align="center">
-  Hi, I'm Muhammad Rafly Romeo Nasution 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+> "Junior Programmer"
+> 
+> "UI/UX Designer"
+> 
+> "Frontend developer"
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=27&pause=1000&color=3C83F6&center=true&vCenter=true&width=500&lines=UI%2FUX+Designer;Junior+Web+Developer;Frontend+developer;Web+Designer" />
-  </a>
-</p>
-
-<h4 align="center">
-Hi, I'm Muhammad Rafly Romeo Nasution, also known as Romeo, a sixth-semester undergraduate student at Gunadarma University with a strong interest in Web Development and UI/UX Design.
-</h4>
-
-<p align="center">
-🎉 I just recently finished my portfolio, check it out <a href="https://raflyromeo-portfolio.vercel.app/">here</a>
-</p>
-
----
+🎉 I just recently finished my portfolio, check it out [here](https://raflyromeo-portfolio.vercel.app/https://raflyromeo-portfolio.vercel.app/)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rfly.romeo_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadraflyromeonasution) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@raflyromeoo_) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/rfly.romeo_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/muhammadraflyromeonasution) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@raflyromeoo_) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCnHfTUSvghNKgfjD-OskT4w) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raflyromeonasution07@gmail.com) 
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-%23000000.svg?style=flat-square&logo=web&logoColor=white)](https://raflyromeo-portfolio.vercel.app/)
@@ -46,11 +33,12 @@ Hi, I'm Muhammad Rafly Romeo Nasution, also known as Romeo, a sixth-semester und
 ![](https://github-readme-stats-raflyromeo.vercel.app/api/top-langs/?username=Raflyromeo&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&cache_seconds=1800)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Raflyromeo&icon=4&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Snake animation](https://github.com/Raflyromeo/raflyromeo/blob/output/github-contribution-grid-snake.svg)
----
+<div align="center">
+  <br>
+  <small><i>"Turning creative visions into functional digital reality."</i></small>
+</div>
