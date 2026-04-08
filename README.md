@@ -19,7 +19,7 @@
   </h4>
 
   <p align="center">
-    🎉 Check out my portfolio: <a href="https://raflyromeo-portfolio.vercel.app/"><b>raflyromeo.vercel.app</b></a>
+    🎉 Check out my portfolio: <a href="https://raflyromeo-portfolio.vercel.app/"><b>rafly romeo portfolio</b></a>
   </p>
 
   <p align="center">
@@ -206,6 +206,5 @@ Sebagai mahasiswa Sistem Informasi, saya senang mengeksplorasi dunia pengembanga
 </div>
 
 <div align="center">
-  <br>
   <small><i>"Turning creative visions into functional digital reality."</i></small>
 </div>
