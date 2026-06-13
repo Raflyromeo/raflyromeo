@@ -65,12 +65,12 @@
 ### 📊 Adventure Log (Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats-raflyromeo.vercel.app/api?username=Raflyromeo&show_icons=true&theme=radical&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="110"/>
-  <img src="https://github-readme-stats-raflyromeo.vercel.app/api/top-langs/?username=Raflyromeo&layout=compact&theme=radical&hide_border=false&bg_color=0d1117&title_color=58a6ff" height="110"/>
+  <img src="https://github-readme-stats-raflyromeo.vercel.app/api?username=Raflyromeo&show_icons=true&theme=radical&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="160"/>
+  <img src="https://github-readme-stats-raflyromeo.vercel.app/api/top-langs/?username=Raflyromeo&layout=compact&theme=radical&hide_border=false&bg_color=0d1117&title_color=58a6ff" height="160"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Raflyromeo&theme=radical&hide_border=false&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="110"/>
+  <img src="https://streak-stats.demolab.com/?user=Raflyromeo&theme=radical&hide_border=false&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="160"/>
 </div>
 
 ---
