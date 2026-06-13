@@ -37,9 +37,8 @@
 
 ### 📜 The Developer's Journey
 
-<div align="justify">
-  <img src="./assets/gif/softwaredeveloper.gif" align="right" width="250" alt="Rafly Romeo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" align="right" width="30" height="200" alt="" />
+<img src="./assets/gif/softwaredeveloper.gif" align="right" width="250" alt="Rafly Romeo" />
+<p align="justify">
   Hai, saya <b>Muhammad Rafly Romeo Nasution</b>, atau biasa dipanggil Romeo! 👋
   <br><br>
   Saya seorang <b>Web Developer dan UI/UX Designer</b> yang saat ini sedang menempuh semester 6 Program Studi Sistem Informasi di Universitas Gunadarma.
@@ -47,7 +46,7 @@
   Saya memiliki ketertarikan dalam merancang dan mengembangkan website yang tidak hanya menarik secara visual, tetapi juga mudah digunakan dan memberikan pengalaman yang menyenangkan bagi penggunanya. Dalam proses pengembangan, saya sering menggunakan <i>React.js, TypeScript, Next.js</i>, dan <i>Tailwind CSS</i> untuk membangun antarmuka yang modern, responsif, dan interaktif.
   <br><br>
   Bagi saya, sebuah desain yang baik bukan hanya tentang bagaimana tampilannya, tetapi juga tentang bagaimana pengguna dapat berinteraksi dengan nyaman dan merasakan manfaat dari setiap pengalaman yang diciptakan. Saya selalu berusaha menggabungkan kreativitas dalam desain dengan solusi teknis yang tepat untuk menghasilkan produk digital yang fungsional dan bermakna.
-</div>
+</p>
 <br clear="both">
 <br>
 
