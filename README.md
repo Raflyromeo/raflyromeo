@@ -37,8 +37,9 @@
 
 ### 📜 The Developer's Journey
 
-<div>
-  <img src="./assets/gif/softwaredeveloper.gif" align="right" width="230" hspace="20" alt="Rafly Romeo" />
+<div align="justify">
+  <img src="./assets/gif/softwaredeveloper.gif" align="right" width="230" alt="Rafly Romeo" />
+  <img src="./assets/spacer.png" align="right" width="25" alt="" />
   Hai, saya <b>Muhammad Rafly Romeo Nasution</b>, atau biasa dipanggil Romeo! 👋
   <br><br>
   Saya seorang <b>Web Developer dan UI/UX Designer</b> yang saat ini sedang menempuh semester 6 Program Studi Sistem Informasi di Universitas Gunadarma.
