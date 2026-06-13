@@ -37,7 +37,7 @@
 
 ### 📜 The Developer's Journey
 
-<div align="justify">
+<div>
   <img src="./assets/gif/softwaredeveloper.gif" align="right" width="230" hspace="20" alt="Rafly Romeo" />
   Hai, saya <b>Muhammad Rafly Romeo Nasution</b>, atau biasa dipanggil Romeo! 👋
   <br><br>
