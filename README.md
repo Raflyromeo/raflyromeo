@@ -47,6 +47,7 @@
   <br><br>
   Bagi saya, sebuah desain yang baik bukan hanya tentang bagaimana tampilannya, tetapi juga tentang bagaimana pengguna dapat berinteraksi dengan nyaman dan merasakan manfaat dari setiap pengalaman yang diciptakan. Saya selalu berusaha menggabungkan kreativitas dalam desain dengan solusi teknis yang tepat untuk menghasilkan produk digital yang fungsional dan bermakna.
 </div>
+<br clear="both">
 <br>
 
 ### 🎒 My Toolbox & Spells (Full Tech Stack)
@@ -75,10 +76,14 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🎮 Contribution Pacman
 
 <div align="center">
-  <img src="https://github.com/Raflyromeo/raflyromeo/blob/output/github-contribution-grid-snake.svg" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raflyromeo/raflyromeo/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raflyromeo/raflyromeo/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" width="100%" src="https://raw.githubusercontent.com/Raflyromeo/raflyromeo/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
 <!-- ### ✍️ Random Dev Quote
