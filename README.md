@@ -55,7 +55,7 @@
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="Canva" />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/framermotion/white">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/framer/white">
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" height="48" alt="Framer" />
   </picture>
