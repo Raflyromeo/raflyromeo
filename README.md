@@ -26,11 +26,8 @@
     <a href="mailto:raflyromeonasution07@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"/>
     </a>
+    <img src="https://komarev.com/ghpvc/?username=Raflyromeo&label=PROFILE_VIEWS&color=4CC9FE&style=for-the-badge" height="30" />
   </p>
-
-  <!-- <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Raflyromeo&label=PROFILE_VIEWS&color=4CC9FE&style=flat-square" />
-  </p> -->
 </div>
 
 ---
@@ -57,7 +54,11 @@
     <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,supabase,prisma,figma" />
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="Canva" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" height="48" alt="Framer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/framermotion/white">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" height="48" alt="Framer" />
+  </picture>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vercel,git,github" />
   </a>
